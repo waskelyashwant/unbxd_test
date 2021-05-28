@@ -5,7 +5,9 @@ It make use of two APIs:-
 
 The libraries used in main.py file are:-
 import json
+
 import requests
+
 import csv
 
 Please, install it in your python system to run the main.py file.
